@@ -15,7 +15,7 @@ Cite as:
 	@article{, 
 	author = {Slavakis, K}, 
 	journal = {IEEE Transactions on Signal Processing}, 
-	title = {The Stochastic {F}ej{\'e}r-Monotone Hybrid Steepest Descent Method and the Hierarchical {RLS}}, 
+	title = {The stochastic {F}ej{\'e}r-monotone hybrid steepest descent method and the hierarchical {RLS}}, 
 	year = {2019}, 
 	volume = {67}, 
 	number = {11}, 
