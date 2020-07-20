@@ -22,6 +22,17 @@ Cite as:
 	month = jun
 	}
 
+## License
+The software is distributed under 3-Clause BSD License (https://opensource.org/licenses/BSD-3-Clause).
+
+## About us
+
+### Contributor
+    Konstantinos Slavakis, University at Buffalo, The State University of New York
+    http://www.acsu.buffalo.edu/~kslavaki/index.html
+
+
+
 ## Acknowledgements
 
 The work was supported by the National Science Foundation (NSF) under Grants 1525194 and 1718796.
