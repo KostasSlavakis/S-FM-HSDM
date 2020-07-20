@@ -5,6 +5,20 @@ K. Slavakis, "The stochastic Fejér-monotone hybrid steepest descent method and 
 
 Run the file: RunMe.m
 
-## Citation:
-Please cite as:
+## Citation
+Cite as:
 
+@ARTICLE{, 
+author = {Slavakis, K}, 
+journal = {IEEE Transactions on Signal Processing}, 
+title = {The Stochastic {F}ej{\'e}r-Monotone Hybrid Steepest Descent Method and the Hierarchical {RLS}}, 
+year = {2019}, 
+volume = {67}, 
+number = {11}, 
+pages = {2868--2883}, 
+optdoi = {10.1109/TSP.2019.2907257}, 
+optISSN = {1053-587X}, 
+month = jun
+}
+
+## Acknowledgements
