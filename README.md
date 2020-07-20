@@ -1,12 +1,15 @@
 # S-FM-HSDM
+
 Matlab code for the numerical tests of the paper: 
 
 K. Slavakis, "The stochastic Fejér-monotone hybrid steepest descent method and the hierarchical RLS," IEEE Transactions on Signal Processing, vol. 67, no. 11, pp. 2868-2883, June 2019. (DOI: https://doi.org/10.1109/TSP.2019.2907257)
 
 ## Usage
+
 Run the file: RunMe.m
 
 ## Citation
+
 Cite as:
 
 	@article{, 
@@ -23,15 +26,14 @@ Cite as:
 	}
 
 ## License
+
 The software is distributed under 3-Clause BSD License (https://opensource.org/licenses/BSD-3-Clause).
 
 ## About us
 
 ### Contributor
-    Konstantinos Slavakis, University at Buffalo, The State University of New York
-    http://www.acsu.buffalo.edu/~kslavaki/index.html
 
-
+Konstantinos Slavakis, University at Buffalo, The State University of New York (http://www.acsu.buffalo.edu/~kslavaki/index.html)
 
 ## Acknowledgements
 
