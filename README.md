@@ -33,7 +33,7 @@ The software is distributed under 3-Clause BSD License (https://opensource.org/l
 
 ### Contributor
 
-Konstantinos Slavakis, University at Buffalo, The State University of New York (http://www.acsu.buffalo.edu/~kslavaki/index.html)
+Konstantinos Slavakis
 
 ## Acknowledgements
 
